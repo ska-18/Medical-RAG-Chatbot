@@ -1,0 +1,13 @@
+Flask
+Flask-Cors
+python-dotenv
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-huggingface
+langchain-pinecone
+langchain-groq
+pinecone
+sentence-transformers
+pypdf
